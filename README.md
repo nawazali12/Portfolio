@@ -6,7 +6,7 @@ This is my personal portfolio website, built using **HTML**, **CSS**, and **Java
 
 🔗 [View Portfolio Website](https://nawazali12.github.io/Portfolio/)
 
-> Replace `yourusername` with your actual GitHub username.
+`nawazali12`
 
 ---
 
